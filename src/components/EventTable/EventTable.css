@@ -1,0 +1,10 @@
+.table{
+    width:75%;
+    font-size: 14px;
+}
+
+td{
+    word-wrap: normal;
+    white-space: normal;
+    font-size: 18px;
+}

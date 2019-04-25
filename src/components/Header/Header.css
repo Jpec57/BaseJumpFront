@@ -1,0 +1,30 @@
+img {
+    display: block;
+    max-width: 250px;
+    width: auto;
+    height: auto;
+}
+
+.in_row{
+    display: flex;
+    flex-direction: row;
+    align-self: baseline;
+}
+
+.img_wlabel{
+    margin-right: 10px;
+}
+
+span {
+    color: #b0aebe;
+}
+
+.creer{
+    font-size: 30px;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+.login{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.centered{
+    text-align: center;
+}
+
+.centeredDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label{
+    font-size: 18px;
+}
+
+input{
+    margin-bottom: 5%;
+}
+
+.footer{
+    color: black;
+    font-size: 14px;
+}

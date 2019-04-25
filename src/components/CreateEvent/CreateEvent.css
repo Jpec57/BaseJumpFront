@@ -1,0 +1,56 @@
+.font{
+    font-size: 14px;
+}
+.centered{
+    display: flex;
+    flex-direction: column;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    display: flex;
+    justify-content: flex-start;
+}
+
+li{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.row > * {
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.add{
+    display: flex;
+    margin-bottom: 3%;
+
+}
+
+.error{
+    color: red;
+}
+
+
+.space > *{
+    margin-bottom: 15px;
+
+}
